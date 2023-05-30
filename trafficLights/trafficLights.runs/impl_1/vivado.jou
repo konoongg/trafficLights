@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue May 30 13:19:41 2023
+# Process ID: 7116
+# Current directory: C:/Users/v.akhmedov/trafficLights/trafficLights.runs/impl_1
+# Command line: vivado.exe -log trafficLights.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source trafficLights.tcl -notrace
+# Log file: C:/Users/v.akhmedov/trafficLights/trafficLights.runs/impl_1/trafficLights.vdi
+# Journal file: C:/Users/v.akhmedov/trafficLights/trafficLights.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source trafficLights.tcl -notrace
